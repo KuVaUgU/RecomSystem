@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Рекомендательный поиск</string>
+
+    <string name="action_settings">Настройки "Рядом со мной"</string>
+    <string name="recommendations">Рекомендации</string>
+    <string name="near_me">Рядом со мной</string>
+    <string name="interests">Интересы</string>
+    <string name="map_show">Показать на карте</string>
+    <string name="map_all_show">Показать на карте</string>
+    <string name="categories">Категории</string>
+    <string name="distance">Расстояние определяется...</string>
+    <string name="nothing_near_you">Рядом с вами ничего не найдено</string>
+    <string name="finding_youre_coordinates">Текущее местоположение определяется...</string>
+    <string name="near_me_function">Функция рядом со мной</string>
+    <string name="enter_distance">Введите расстояние для поиска</string>
+    <string name="ok">Применить</string>
+    <string name="distance_too_big">Расстояние слишком большое</string>
+    <string name="error_number">Введите положительное число</string>
+    <string name="no">Отмена</string>
+    <string name="entry_number">Введите число</string>
+    <string name="clear">Сброс</string>
+
+    <string name="list_categories">Категории: </string>
+    <string name="nothing_to_recommend">Нечего порекомендовать. Включите GPS, заполнгите анкету интересов или оцените объекты для получения рекомендаций.</string>
+    <string name="gps_settings">Настройки GPS</string>
+
+    <string name="recommend_warning">Рекомендации, основанные на интересах. Оцените объекты для более точных рекомендаций.</string>
+    <string name="recommend_warning2">Ближайшие места. Заполните анкету интересов и оцените объекты для более точных рекомендаций.</string>
+
+
+
+
+
+</resources>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<interests>
+    <record tag="Музеи" bool="0" />
+    <record tag="Театры" bool="0" />
+    <record tag="Достопримечательности" bool="0" />
+    <record tag="Музыка" bool="0" />
+    <record tag="Искусство" bool="0" />
+    <record tag="Концерты" bool="0" />
+    <record tag="Развлечения" bool="0" />
+    <record tag="Прогулки" bool="0" />
+    <record tag="Рестораны" bool="0" />
+    <record tag="Покупки" bool="0" />
+
+
+</interests>

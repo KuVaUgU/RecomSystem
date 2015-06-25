@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+    <ImageView
+        android:layout_width="125dp"
+        android:layout_height="125dp"
+        android:id="@+id/place_list_item_imageView"
+        android:gravity="top"
+        android:layout_alignParentLeft="true"
+        android:enabled="false"
+        android:focusable="false"
+        android:padding="4dp"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/place_list_nameTextView"
+        android:layout_toRightOf="@id/place_list_item_imageView"
+        android:textStyle="bold"
+        android:paddingLeft="4dp"
+        android:paddingRight="4dp"
+        android:textSize="16sp"
+        android:layout_marginTop="4dp"
+        android:text="Название"/>
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/place_list_item_descriptionTextView"
+        android:layout_toRightOf="@id/place_list_item_imageView"
+        android:layout_below="@id/place_list_nameTextView"
+        android:paddingLeft="4dp"
+        android:paddingRight="4dp"
+        android:layout_marginTop="2dp"
+        android:textSize="14sp"
+        android:text="Описание"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/place_list_item_tagsTextView"
+        android:layout_toRightOf="@id/place_list_item_imageView"
+        android:layout_below="@id/place_list_item_descriptionTextView"
+        android:textSize="12sp"
+        android:layout_marginTop="5dp"
+        android:text="Категории:"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/place_list_item_distanceTextView"
+        android:layout_toRightOf="@id/place_list_item_imageView"
+        android:layout_below="@id/place_list_item_tagsTextView"
+        android:textSize="12sp"
+        android:layout_marginTop="5dp"
+        android:text="Расстояние"/>
+</RelativeLayout>

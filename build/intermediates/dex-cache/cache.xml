@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\Prog\Android\RecomSearch\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4f4fe3c23776540625f3c2844152a7510fddf9f1">
+        <dex dex="D:\Prog\Android\RecomSearch\app\build\intermediates\pre-dexed\debug\classes-377e519b49fb80ff7c820bd713e02293ff31c346.jar" />
+    </item>
+    <item
+        jar="D:\Prog\Android\RecomSearch\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="565a01f90f1529f73362707c4c185d0623a68782">
+        <dex dex="D:\Prog\Android\RecomSearch\app\build\intermediates\pre-dexed\debug\classes-39d327a3aab03a6d918ab581402c85a8096256ea.jar" />
+    </item>
+    <item
+        jar="D:\Prog\Android\RecomSearch\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b2c07cdb814fe988ad05f7b4d767a841514a5991">
+        <dex dex="D:\Prog\Android\RecomSearch\app\build\intermediates\pre-dexed\debug\classes-bb603ab9d1d30f5c7d8650946fcb58d8cdafaaf1.jar" />
+    </item>
+    <item
+        jar="D:\Prog\Android\RecomSearch\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b48d5c51a9a9e329005106b4667f54948de4d4d8">
+        <dex dex="D:\Prog\Android\RecomSearch\app\build\intermediates\pre-dexed\debug\classes-66f36c0f470384cec65bda381eba70afdd536774.jar" />
+    </item>
+    <item
+        jar="D:\Prog\Android\RecomSearch\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c95ba8152923e4872e86a82cfcba9a51c0214328">
+        <dex dex="D:\Prog\Android\RecomSearch\app\build\intermediates\pre-dexed\debug\classes-0fc4b3c1a37b30e0bb555df6a89e6e63a21213b6.jar" />
+    </item>
+    <item
+        jar="C:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.1.1\support-annotations-22.1.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="01d051a6bfb1218b1db2d3a5af0480ac2c25c42a">
+        <dex dex="D:\Prog\Android\RecomSearch\app\build\intermediates\pre-dexed\debug\support-annotations-22.1.1-698f9e7179e3fde94c6a0d0998c2e81a6bdd81b7.jar" />
+    </item>
+    <item
+        jar="D:\Prog\Android\RecomSearch\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e5bf453b070c1e39297986144960e45afa0fdfad">
+        <dex dex="D:\Prog\Android\RecomSearch\app\build\intermediates\pre-dexed\debug\classes-8e7b89c3480e0292fae26bef03d1c853cc70534e.jar" />
+    </item>
+    <item
+        jar="D:\Prog\Android\RecomSearch\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="bb36004beb02b69562cbec9aa7d6a3cf16bf5d1b">
+        <dex dex="D:\Prog\Android\RecomSearch\app\build\intermediates\pre-dexed\debug\classes-2a099323ba0bc6f247f0489a7e14cf73d8a68ed9.jar" />
+    </item>
+    <item
+        jar="D:\Prog\Android\RecomSearch\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="fe3e0c6de7cceed888b277487238b6af9a1cc299">
+        <dex dex="D:\Prog\Android\RecomSearch\app\build\intermediates\pre-dexed\debug\classes-bbe33aece8cbed332e00a0d15f5d81d8c9e08c19.jar" />
+    </item>
+    <item
+        jar="D:\Prog\Android\RecomSearch\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="0708ef60917bf94913fe9ef972a655b99462dca7">
+        <dex dex="D:\Prog\Android\RecomSearch\app\build\intermediates\pre-dexed\debug\classes-7d42ca206743be563f8a453b40666df92b6dc31d.jar" />
+    </item>
+    <item
+        jar="D:\Prog\Android\RecomSearch\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e35fae1b377c23aa5fd2d309a190c2d0f73d54ec">
+        <dex dex="D:\Prog\Android\RecomSearch\app\build\intermediates\pre-dexed\debug\classes-c04ed31ac68662bd341d53402a430916b2b790b6.jar" />
+    </item>
+    <item
+        jar="D:\Prog\Android\RecomSearch\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appstate\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="0180d031a7b54dabb93b4af3869468b55dc938bd">
+        <dex dex="D:\Prog\Android\RecomSearch\app\build\intermediates\pre-dexed\debug\classes-6e03a7c0f197189ae053b36a3b6127cdf61e0f9c.jar" />
+    </item>
+    <item
+        jar="D:\Prog\Android\RecomSearch\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.1\jars\libs\internal_impl-22.1.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="9e070ad32b2700b0343e8e0cccc437733d91ba3a">
+        <dex dex="D:\Prog\Android\RecomSearch\app\build\intermediates\pre-dexed\debug\internal_impl-22.1.1-451f957e1e38f38e72c2e591563f3aca07ac3a60.jar" />
+    </item>
+    <item
+        jar="D:\Prog\Android\RecomSearch\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a3ff3c506644c820eb2bdf06e8339f72be578551">
+        <dex dex="D:\Prog\Android\RecomSearch\app\build\intermediates\pre-dexed\debug\classes-95de19920d18e13b6232ff7bbad3c3e5d829c9f8.jar" />
+    </item>
+    <item
+        jar="D:\Prog\Android\RecomSearch\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="5ea948d825957be6c4358c48422bee60eef2d487">
+        <dex dex="D:\Prog\Android\RecomSearch\app\build\intermediates\pre-dexed\debug\classes-f115c1fbaf87289cd18c866c93624e3e75ce4519.jar" />
+    </item>
+    <item
+        jar="D:\Prog\Android\RecomSearch\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f2f7ec211ce4d244ee97a57523eeb4526dc3cf8a">
+        <dex dex="D:\Prog\Android\RecomSearch\app\build\intermediates\pre-dexed\debug\classes-0f86f0d07cd16ed76c806daaaf79127d6d633357.jar" />
+    </item>
+    <item
+        jar="D:\Prog\Android\RecomSearch\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="9c9dea9e85aceb09d95df5e6f7bc8a43fc286068">
+        <dex dex="D:\Prog\Android\RecomSearch\app\build\intermediates\pre-dexed\debug\classes-94f51da3850b298f3744795c7d9c155c71eff0c3.jar" />
+    </item>
+    <item
+        jar="D:\Prog\Android\RecomSearch\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="7215ac1f2fca947b9415a6ee2a1bf991364aab24">
+        <dex dex="D:\Prog\Android\RecomSearch\app\build\intermediates\pre-dexed\debug\classes-191b5e0ae94e119146068035e50b5219523f4fe9.jar" />
+    </item>
+    <item
+        jar="D:\Prog\Android\RecomSearch\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="59652857a825fff0de62166fca1bc9553cc01abb">
+        <dex dex="D:\Prog\Android\RecomSearch\app\build\intermediates\pre-dexed\debug\classes-46275876ec33ff5257affc9b56bda7683be1a410.jar" />
+    </item>
+    <item
+        jar="D:\Prog\Android\RecomSearch\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="3988694bf9d8186ff97ad5cdfa4ed88b5010fe08">
+        <dex dex="D:\Prog\Android\RecomSearch\app\build\intermediates\pre-dexed\debug\classes-10272040c4ccb629aa8e323fe9e650421d670120.jar" />
+    </item>
+    <item
+        jar="D:\Prog\Android\RecomSearch\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="6046e5cdaf799120b7c56a5a061d80e8854c4d34">
+        <dex dex="D:\Prog\Android\RecomSearch\app\build\intermediates\pre-dexed\debug\classes-cd14233c018a040539bce2d2b38526f4c3a1d9f7.jar" />
+    </item>
+    <item
+        jar="D:\Prog\Android\RecomSearch\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a0ce76dfaccbfbd6c551ed2174280aaabe60fe47">
+        <dex dex="D:\Prog\Android\RecomSearch\app\build\intermediates\pre-dexed\debug\classes-1f06937889e582318216b9b3c3d941e3ed24561d.jar" />
+    </item>
+    <item
+        jar="D:\Prog\Android\RecomSearch\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="3b4ff5c39dace8f3b4ab4cab8191785547a0815f">
+        <dex dex="D:\Prog\Android\RecomSearch\app\build\intermediates\pre-dexed\debug\classes-07826dab04ce0a6bda541fd9abff754a29b4d677.jar" />
+    </item>
+    <item
+        jar="D:\Prog\Android\RecomSearch\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e5b9f5b0aa8dee788beb63d23832cb29ce771343">
+        <dex dex="D:\Prog\Android\RecomSearch\app\build\intermediates\pre-dexed\debug\classes-520be6e5347a66676d94c1b072795b37c8a91edc.jar" />
+    </item>
+
+</items>
